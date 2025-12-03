@@ -88,6 +88,3 @@ Each employee record contains:
 * Optimized filters and indexes for faster searches.
 * Clean resolver structure to reduce computation overhead.
 
-
-
-Just tell me!
