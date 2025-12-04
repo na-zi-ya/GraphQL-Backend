@@ -92,13 +92,28 @@ Each employee record contains:
 
 ## **8. Screenshots**
 
+### **REGISTER USER (ADMIN)**
 <img width="1410" height="807" alt="image" src="https://github.com/user-attachments/assets/a0feb5e6-6291-4c89-bdd8-1d34b6c35fce" />
+
+### **LOGIN (ADMIN)**
 <img width="1419" height="833" alt="image" src="https://github.com/user-attachments/assets/2deef16f-4a62-4e55-b182-d5a8782fbabd" />
+
+## **ADD EMPLOYEE (Admin Only)**
 <img width="1251" height="797" alt="image" src="https://github.com/user-attachments/assets/55de86fd-d2e4-45fc-bebb-ddedc697b2ca" />
+
+## **UPDATE EMPLOYEE (Admin Only)**
 <img width="1423" height="822" alt="image" src="https://github.com/user-attachments/assets/040b13d0-e620-4ac7-a03d-f204c433f089" />
+
+## **LIST EMPLOYEES (Basic)**
 <img width="1402" height="851" alt="image" src="https://github.com/user-attachments/assets/16802662-4181-4636-890e-887644b8f013" />
+
+## **PAGINATION TEST**
 <img width="1385" height="829" alt="image" src="https://github.com/user-attachments/assets/6d6f3e56-f484-4f45-8083-775d752b2799" />
+
+## **SORTING TEST**
 <img width="1434" height="806" alt="image" src="https://github.com/user-attachments/assets/221be213-4b3d-491a-bd7c-c135576a8d67" />
+
+## **FILTER TEST**
 <img width="1413" height="843" alt="image" src="https://github.com/user-attachments/assets/9a72d73e-f3f4-442f-b817-94599e29ac16" />
 
 
